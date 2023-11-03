@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "mainlive",
+    "slug": "mainlive",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
